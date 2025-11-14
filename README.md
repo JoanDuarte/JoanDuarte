@@ -1,10 +1,10 @@
 # Hey, I'm Joan 👋
 
-I'm a product builder focused on shipping real products. Thinking big, small steps at the time.
+I'm a product builder focused on shipping real products. Thinking big, small steps at a time.
 
-- 🔭 **Current focus:** Clikan: PokémonGO for real places with social feed
-- 🧪 **Previous/parallel projects:** Bloorfy, aequsy, Dl3arn, Stryk and some others lost in time.
-- 🌱 I like turning small experiments into real products and iterating fast with users.
+- 🔭 **Current focus:** [Clikan](https://github.com/JoanDuarte?tab=repositories#:~:text=Star-,ClikanIOS,-Private): PokémonGO for real places with social feed
+- 🧪 **Previous/parallel projects:** [aequsy](https://github.com/JoanDuarte/aequsy), [Bloorfy](https://github.com/JoanDuarte/Bloorfy), [Dl3arn](https://dev-dl3arn.vercel.app/), Stryk and some others lost in time.
+- 🌱 I like turning small experiments into real products and iterating fast with users. Except for my blog, which is going to be undone for a while.
 - 📬 Reach me on [Twitter](https://www.twitter.com/jotyduarte) or [LinkedIn](https://www.linkedin.com/in/joanduarte1/)
 
 ---
