@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Joan 👋
 
-<!--
-**JoanDuarte/JoanDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product builder focused on shipping real products. Thinking big, small steps at the time.
 
-Here are some ideas to get you started:
+- 🔭 **Current focus:** Clikan: PokémonGO for real places with social feed
+- 🧪 **Previous/parallel projects:** Bloorfy, aequsy, Dl3arn, Stryk and some others lost in time.
+- 🌱 I like turning small experiments into real products and iterating fast with users.
+- 📬 Reach me on [Twitter](https://www.twitter.com/jotyduarte) or [LinkedIn](https://www.linkedin.com/in/joanduarte1/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 How I work
+
+- I keep repos focused: separate apps, libraries, and experiments.
+- I care about clear READMEs, typed code, and fast iteration.
+- I’m especially excited about: Consumer Apps, Blockchain & AI.
+
+If you're an accelerator, investor, or collaborator who wants to talk about what I’m building, feel free to reach out.
