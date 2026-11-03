@@ -1,12 +1,18 @@
 # Joan Duarte
 
-I build products where AI, software and interface design meet. I dropped out at 21 to start a Bitcoin mining company, and a few years later got tired of delegating the actual building, so I taught myself to code. Most of my work since then lives in private repos. If you want to see the code, ask.
+I build products where AI, software and interface design meet. I dropped out at 21 to start a cryptocurrency mining company, and a few years later got tired of delegating the actual building, so I taught myself to code. Most of my work since then lives in private repos. If you want to see the code, ask.
 
 ## What I'm building
 
-**[Flare](https://heyflare.app)** is an agent that keeps you close to your friends. You open it and the Orb is already talking: what your friends have been up to, then one question about your day. Your answer is what keeps them in the loop. No feed, no likes, no strangers. Live on iOS. Expo and React Native, Supabase with row-level security and Edge Functions, Gemini for the agents, ElevenLabs for the voice, a Skia shader for the Orb.
+**[Catherby](https://catherby.app/en)** is an agentic operating system for a farm's back office. Farmers send invoices, documents, photos and voice notes through WhatsApp, email or the web. Our agents record purchases, track costs and stock, check grain settlements and prepare the work that needs to go out. The goal is more time in the field and less time in the office.
 
-**[Verelyn](https://verelyn.com)** is a newsroom built around one reader. Journalist agents read your sources every morning, fold four reports of the same thing into one event with its sources attached, and send a single briefing at 07:00. Live since August 2026; the first reader paid twelve days after the first commit. Next.js on Vercel, the AI Gateway so each task goes to the model that fits it, Firecrawl to read the web, Resend to deliver.
+I co-founded Catherby with [Franco Quattroqui](https://github.com/francoquattroqui). I build and maintain the web app, backend and agents. We're starting with crop farms in Argentina.
+
+## Other products I've built
+
+**[Flare](https://heyflare.app)** is a voice-based social app I co-founded and built. I built the iOS app and backend using Expo and React Native, Supabase, Gemini and ElevenLabs. We paused development in July 2026.
+
+**[Verelyn](https://verelyn.com)** is a newsroom built around one reader. Journalist agents read your sources every morning, fold four reports of the same thing into one event with its sources attached, and send a single briefing at 07:00. Next.js on Vercel, the AI Gateway so each task goes to the model that fits it, Firecrawl to read the web, Resend to deliver.
 
 **[Privé](https://heyprive.com)** is a Telegram-native storefront for creators. They sell content, calls and group access without leaving Telegram, and get paid through Mercado Pago, crypto or bank transfer, straight into their own account. Fastify, grammY and Drizzle on Postgres.
 
@@ -16,4 +22,4 @@ Stevay put AI agents inside the back office of construction companies. We shippe
 
 ## Elsewhere
 
-[joanduarte.vercel.app](https://joanduarte.vercel.app) · [@jotyduarte](https://x.com/jotyduarte) · [linkedin.com/in/joanduarte](https://linkedin.com/in/joanduarte)
+[joanduarte.com](https://joanduarte.com) · [@jotyduarte](https://x.com/jotyduarte) · [LinkedIn](https://www.linkedin.com/in/joanmateoduarte/)
